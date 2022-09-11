@@ -1,1 +1,1 @@
-## [A random tech quote machine]()
+## [A random tech quote machine](https://henrinyberg.github.io/a_bootstrap_random_tech_quote_generator/)
